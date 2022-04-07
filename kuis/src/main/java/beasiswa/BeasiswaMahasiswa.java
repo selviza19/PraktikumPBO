@@ -2,5 +2,5 @@
 package beasiswa;
 
 public interface BeasiswaMahasiswa {
-    double seleksi();
+    double hasilmahasiswa();
 }
