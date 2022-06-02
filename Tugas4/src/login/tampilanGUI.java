@@ -21,7 +21,7 @@ public class tampilanGUI extends JFrame {
     JButton btnLogin = new JButton("Login");
     JButton btnRegis = new JButton("Register");
     String dbtabel = "login";
-    String query;
+//    String query;
     String[][] data = new String[2][2];
 
     koneksi konek = new koneksi();
